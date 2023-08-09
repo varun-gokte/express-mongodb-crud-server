@@ -1,5 +1,5 @@
 {
-  "name": "credence-assignment",
+  "name": "express-mongodb-crud-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
